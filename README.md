@@ -20,7 +20,7 @@
 
 [Xshll工具](https://www.xshell.com/zh/free-for-home-school)\
 [我为你准备的工具压缩包 ](https://pan.baidu.com/s/19_cwpLHE86uUWZdano5S_w?pwd=szsq)
-
+提取码为 szsq
 
 ## 如何使用
 
@@ -73,7 +73,7 @@ mtd write /tmp/mt7981-nokia-ea0326gmp-fip-expand.bin fip
 ![image](https://github.com/user-attachments/assets/d0655870-5006-462a-b245-f9a67e919398)
 然后点击选择文件，选择工具包中的`nokia_ea0326gmp-all.bin`文件，然后upload，等待上传到100%以后,点击出现的upgrade 然后等待路由器重启，这一步大概需要2分钟，可以先去玩玩手机。
 
-等路由器重启完成后在浏览器输出: 【192.168.1.1】，
+等路由器重启完成后在浏览器输入: 【192.168.1.1】，
 
 用户名和密码都是root,后期可以自己改，进去以后，找到左边的网络，下面的SUSELogin插件，然后填写自己的校园网账号密码以及选择好自己的运营上，修改一下间隔时间为1，
 ![image](https://github.com/user-attachments/assets/8572e9f8-fa47-49d4-8e2c-c388bcce76fc)
@@ -86,5 +86,5 @@ mtd write /tmp/mt7981-nokia-ea0326gmp-fip-expand.bin fip
 
 #### 本文的插件来源 
 
-脚本代码是来自SUSE以前的前辈做的Luci插件：[blackyau](https://github.com/blackyau/luci-app-suselogin)，我以及直接帮你写好到了openwrt系统中
+脚本代码是来自SUSE以前的前辈做的Luci插件：[blackyau](https://github.com/blackyau/luci-app-suselogin)，我已经直接帮你写好到了openwrt系统中
 
