@@ -27,7 +27,7 @@
 
 ### 特别注意：本文采用的路由器设备是贝尔0326GMP也就是Nokia EA0326GMP 如果采用其他路由器 请自行进行刷机
 
-在你看到的这个界面的右边有一个Releases，其中包含了贝尔0326GMP编译好了的openwrt操作系统包、WinSCP、\
+在上面的工具压缩包链接中，其中包含了贝尔0326GMP编译好了的openwrt操作系统包、WinSCP、\
 贝尔326GMP的uboot刷机包（uboot的作用是为了防止我们的openwrt刷机中途万一出问题不会变成板砖，也方便以后有一天你把路由器恢复成原始的官方操作系统从而变回一个普通路由器）、\
 SSH开启工具，我把它打包成了一个压缩包，请一次性下载。
 
@@ -85,6 +85,6 @@ mtd write /tmp/mt7981-nokia-ea0326gmp-fip-expand.bin fip
 
 
 #### 本文的插件来源 
-
-脚本代码是来自SUSE以前的前辈做的Luci插件：[blackyau](https://github.com/blackyau/luci-app-suselogin)，我已经直接帮你写好到了openwrt系统中
+GMP
+脚本代码是来自SUSE以前的前辈做的Luci插件：[blackyau](https://github.com/blackyau/luci-app-suselogin)，我已经直接帮你写好到了openwrt系统中，前辈的固件不太容易买到，贝尔0326GMP则随便买到而且还很便宜，也是全千兆口的，甚至还搭载的是MT7981B的芯片，性能比较强，有一个WAN口三个LAN口
 
