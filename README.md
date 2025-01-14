@@ -19,7 +19,7 @@
 ## 前期准备
 
 [Xshll工具](https://www.xshell.com/zh/free-for-home-school)\
-[我为你准备的工具压缩包 ](https://www.xshell.com/zh/free-for-home-school)
+[我为你准备的工具压缩包 ](https://pan.baidu.com/s/19_cwpLHE86uUWZdano5S_w?pwd=szsq)
 
 
 ## 如何使用
